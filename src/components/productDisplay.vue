@@ -114,7 +114,7 @@ export default {
       variants: [
         {
           id: 2001,
-          productName: "Monsef - Vert",
+          productName: "Monsef",
           description:
             "Kalb w ji3an w y5abech barcha",
           details: ["50% coton", "30% laine", "20% polyester"],
@@ -128,7 +128,7 @@ export default {
         },
         {
           id: 2002,
-          productName: "Monsef - Bleu",
+          productName: "Monsef",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam earum fugit voluptate, quasi beatae quaerat quo natus iusto voluptates, incidunt molestias obcaecati. Molestias temporibus aperiam pariatur minima animi repudiandae deserunt possimus repellat voluptates illum labore quae quod velit, minus assumenda voluptatum quisquam ea nostrum.",
           details: ["50% coton", "30% laine", "20% polyester"],
