@@ -114,9 +114,9 @@ export default {
       variants: [
         {
           id: 2001,
-          productName: "Chaussetes - Vert",
+          productName: "Monsef - Vert",
           description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam earum fugit voluptate, quasi beatae quaerat quo natus iusto voluptates, incidunt molestias obcaecati. Molestias temporibus aperiam pariatur minima animi repudiandae deserunt possimus repellat voluptates illum labore quae quod velit, minus assumenda voluptatum quisquam ea nostrum.",
+            "Kalb w ji3an w y5abech barcha",
           details: ["50% coton", "30% laine", "20% polyester"],
           ratings: [{ stars: 5 }, { stars: 4 }],
           oldPrice: 78,
@@ -128,7 +128,7 @@ export default {
         },
         {
           id: 2002,
-          productName: "Chaussetes - Bleu",
+          productName: "Monsef - Bleu",
           description:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam earum fugit voluptate, quasi beatae quaerat quo natus iusto voluptates, incidunt molestias obcaecati. Molestias temporibus aperiam pariatur minima animi repudiandae deserunt possimus repellat voluptates illum labore quae quod velit, minus assumenda voluptatum quisquam ea nostrum.",
           details: ["50% coton", "30% laine", "20% polyester"],
