@@ -11,12 +11,11 @@
     </div>
     <div class="ratings d-flex flex-column overflow-auto">
       <h3 class="display-5 ms-5">Ratings</h3>
-      <div v-for="(user, index) in users" :key="index" class="card bg-light p-3 m-3 ">
+      <div v-for="(user, index) in users" :key="index" class="card bg-light p-3 m-3">
         <h3>{{ user.name }}</h3>
         <hr />
         <p>{{ user.rating }}</p>
       </div>
-
     </div>
   </div>
 </template>
