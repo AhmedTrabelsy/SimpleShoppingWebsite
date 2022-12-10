@@ -29,7 +29,7 @@ export default {
       rating: "",
       users: [
         {
-          name: "Ahmed",
+          name: "Ahmed Trabelsi",
           rating:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat iste omnis minima eligendi exercitationem reprehenderit et nam molestias dolorum corporis asperiores, ex similique repellat praesentium quis inventore debitis quasi repellendus.",
         },
